@@ -1,4 +1,15 @@
-# AI Stock Market Predictor
+---
+title: AI Stocks Predictor
+emoji: 📈
+colorFrom: blue
+colorTo: green
+sdk: streamlit
+sdk_version: 1.45.1
+app_file: streamlit_app.py
+pinned: false
+---
+
+AI Stock Market Predictor
 
 A Stock Price Prediction Web Application built using:
 
