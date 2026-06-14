@@ -4,4 +4,4 @@ pandas
 matplotlib
 scikit-learn
 yfinance
-tensorflow-cpu==2.16.1
+tensorflow-cpu>=2.16.0
